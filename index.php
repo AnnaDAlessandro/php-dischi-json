@@ -11,6 +11,7 @@
 <body>
     <div id="app">
         <?php include_once __DIR__ . './src/components/header.php' ?>
+        <?php include_once __DIR__ . './src/components/main.php' ?>
 
     </div>
     
